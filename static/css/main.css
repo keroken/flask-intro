@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  border: solid 1px #666;
+  padding: 3px 15px;
+}
+
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  width: 250px;
+}
